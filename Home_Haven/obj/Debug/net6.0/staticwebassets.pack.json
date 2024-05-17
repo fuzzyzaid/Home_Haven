@@ -1,0 +1,1429 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Home_Haven.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Home_Haven.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\HOMCOM 2.jpg",
+      "PackagePath": "staticwebassets\\images\\HOMCOM 2.jpg"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\HOMCOM 3.jpg",
+      "PackagePath": "staticwebassets\\images\\HOMCOM 3.jpg"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\bed1.jpg",
+      "PackagePath": "staticwebassets\\images\\bed1.jpg"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\bed4.jpg",
+      "PackagePath": "staticwebassets\\images\\bed4.jpg"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\bed_4.jpg",
+      "PackagePath": "staticwebassets\\images\\bed_4.jpg"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\chair1.png",
+      "PackagePath": "staticwebassets\\images\\chair1.png"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\chair2.jpg",
+      "PackagePath": "staticwebassets\\images\\chair2.jpg"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\cochair1.png",
+      "PackagePath": "staticwebassets\\images\\cochair1.png"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\comchair2.jpg",
+      "PackagePath": "staticwebassets\\images\\comchair2.jpg"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\easysofa2.jpg",
+      "PackagePath": "staticwebassets\\images\\easysofa2.jpg"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\sofa4.jpg",
+      "PackagePath": "staticwebassets\\images\\sofa4.jpg"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\successful.jpg",
+      "PackagePath": "staticwebassets\\images\\successful.jpg"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\table1.png",
+      "PackagePath": "staticwebassets\\images\\table1.png"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\table2.jpg",
+      "PackagePath": "staticwebassets\\images\\table2.jpg"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\table3.jpg",
+      "PackagePath": "staticwebassets\\images\\table3.jpg"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\images\\thnks.jpg",
+      "PackagePath": "staticwebassets\\images\\thnks.jpg"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\additional-methods.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\jquery-validation-sri.json",
+      "PackagePath": "staticwebassets\\jquery-validate\\jquery-validation-sri.json"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ar.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ar.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_az.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_az.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_az.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_bg.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_bg.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_bn_BD.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_bn_BD.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_bn_BD.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_bn_BD.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ca.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ca.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_cs.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_cs.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_da.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_da.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_da.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_de.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_de.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_de.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_el.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_el.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_el.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_es.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_es_AR.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es_AR.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_es_AR.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es_AR.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_es_PE.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es_PE.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_es_PE.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es_PE.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_et.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_et.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_et.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_et.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_eu.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_eu.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_eu.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_eu.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_fa.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fa.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_fi.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fi.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_fi.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fi.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_fr.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fr.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_fr.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fr.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ge.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ge.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ge.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ge.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_gl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_gl.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_gl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_gl.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_he.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_he.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_he.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_he.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_hi.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hi.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_hi.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hi.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_hr.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hr.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_hr.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hr.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_hu.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hu.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_hu.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hu.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_hy_AM.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hy_AM.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_hy_AM.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hy_AM.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_id.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_id.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_id.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_id.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_is.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_is.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_is.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_is.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_it.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_it.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_it.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_it.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ja.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ja.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ja.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ja.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ka.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ka.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ka.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ka.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_kk.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_kk.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_kk.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_kk.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ko.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ko.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ko.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ko.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_lt.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_lt.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_lt.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_lt.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_lv.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_lv.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_lv.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_lv.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_mk.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_mk.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_mk.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_mk.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_my.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_my.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_my.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_my.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_nl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_nl.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_nl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_nl.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_no.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_no.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_no.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_no.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_pl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pl.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_pl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pl.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_pt_BR.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pt_BR.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_pt_BR.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pt_BR.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_pt_PT.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pt_PT.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_pt_PT.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pt_PT.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ro.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ro.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ro.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ro.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ru.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ru.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ru.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ru.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_sd.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sd.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_sd.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sd.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_si.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_si.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_si.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_si.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_sk.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sk.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_sk.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sk.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_sl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sl.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_sl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sl.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_sr.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sr.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_sr.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sr.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_sr_lat.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sr_lat.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sr_lat.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_sv.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sv.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_sv.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sv.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_th.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_th.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_th.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_th.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_tj.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_tj.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_tj.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_tj.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_tr.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_tr.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_tr.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_tr.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_uk.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_uk.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_uk.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_uk.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ur.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ur.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_ur.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ur.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_vi.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_vi.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_vi.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_vi.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_zh.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_zh.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_zh.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_zh.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_zh_TW.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_zh_TW.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\messages_zh_TW.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_zh_TW.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\methods_de.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_de.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\methods_de.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_de.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\methods_es_CL.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_es_CL.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\methods_es_CL.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_es_CL.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\methods_fi.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_fi.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\methods_fi.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_fi.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\methods_it.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_it.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\methods_it.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_it.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\methods_nl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_nl.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\methods_nl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_nl.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\methods_pt.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_pt.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validate\\localization\\methods_pt.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_pt.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\CANADA\\CONESTOGA\\Semester_4_Classes\\Adv.ASP_Net\\Group_Project\\Home_Haven\\Home_Haven\\Home_Haven\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Home_Haven.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Home_Haven.props",
+      "PackagePath": "build\\Home_Haven.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Home_Haven.props",
+      "PackagePath": "buildMultiTargeting\\Home_Haven.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Home_Haven.props",
+      "PackagePath": "buildTransitive\\Home_Haven.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Home_Haven
+build_property.RootNamespace = Home_Haven
+build_property.ProjectDir = E:\CANADA\CONESTOGA\Semester_4_Classes\Adv.ASP_Net\Group_Project\Home_Haven\Home_Haven\Home_Haven\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\CANADA\CONESTOGA\Semester_4_Classes\Adv.ASP_Net\Group_Project\Home_Haven\Home_Haven\Home_Haven
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/AddProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/AllProduct/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/AllProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/Checkout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/EditProduct/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdFByb2R1Y3RcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/ProductDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/Signup/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnbnVwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/SuccessfullOrder/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc2Z1bGxPcmRlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/ViewProduct/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld1Byb2R1Y3RcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CANADA/CONESTOGA/Semester_4_Classes/Adv.ASP_Net/Group_Project/Home_Haven/Home_Haven/Home_Haven/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lu04zsjlmd

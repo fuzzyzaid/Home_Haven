@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Cart";
+}
+
+<h1 class="text-center m-4">Cart Page</h1>
+
+@if (ViewBag.CartItems == null || ViewBag.CartItems.Count == 0)
+{
+    <div class="alert alert-info text-center noItem">
+        <p>Your cart is empty.</p>
+    </div>
+}
+else
+{
+    <div class="container">
+        @if (TempData.ContainsKey("CustomMessage"))
+        {
+            <div class="alert alert-info invalidQuantitiy mt-3">
+                @TempData["CustomMessage"]
+            </div>
+        }
+        @foreach (var item in ViewBag.CartItems)
+        {
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p><strong>Price per unit:</strong> @item.Price.ToString("C")</p>
+                    <p><strong>Total:</strong> @((item.Quantity * item.Price).ToString("C"))</p>
+
+                    <form asp-action="UpdateCartItem" method="post" class="d-inline-block">
+                        <input type="hidden" name="productId" value="@item.ProductID" />
+                        <div class="input-group mb-3">
+                            <input type="number" class="form-control" name="quantity" value="@item.Quantity" />
+                            <div class="input-group-append">
+                                <button type="submit" class="btn btn-primary customBtn">Update</button>
+                            </div>
+                        </div>
+                    </form>
+
+                    <form asp-action="RemoveFromCart" method="post" class="d-inline-block ml-3">
+                        <input type="hidden" name="productId" value="@item.ProductID" />
+                        <button type="submit" class="btn btn-danger customRemove">Remove</button>
+                    </form>
+                </div>
+            </div>
+        }
+
+        <div class="row justify-content-end mt-4">
+            <div class="col-auto text-right">
+                <h4>Total Cart Amount: @ViewBag.CartTotal.ToString("C")</h4>
+                <form asp-action="Checkout" method="post">
+                    <button type="submit" class="btn btn-success customBtn">Checkout</button>
+                </form>
+            </div>
+        </div>
+    </div>
+}

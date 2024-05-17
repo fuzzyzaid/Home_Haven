@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Home_Haven.Models.Product>
+
+<h2>All Products</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Name</th>
+            <th>Quantity</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.ProductID</td>
+                <td>@product.Name</td>
+                <td>@product.Quantity</td>
+                <td>
+                    <a href="@Url.Action("Details", "ViewProduct", new { id = product.ProductID })">View Details</a> |
+                    <a href="@Url.Action("Edit", "EditProduct", new { id = product.ProductID })">Edit</a> |
+                    <a href="@Url.Action("Delete", "AllProduct", new { id = product.ProductID })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

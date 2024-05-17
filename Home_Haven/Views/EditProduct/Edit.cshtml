@@ -1,0 +1,43 @@
+﻿@model Home_Haven.Models.Product
+
+<h2>Edit Product</h2>
+
+<form method="post" asp-action="Edit" asp-route-id="@Model.ProductID" enctype="multipart/form-data">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" id="name" asp-for="Name" />
+    </div>
+
+    <div class="form-group">
+        <label for="description">Description</label>
+        <input type="text" class="form-control" id="description" asp-for="Description" />
+    </div>
+
+    <div class="form-group">
+        <label for="price">Price</label>
+        <input type="number" class="form-control" id="price" asp-for="Price" step="0.01" />
+    </div>
+
+    <div class="form-group">
+        <label for="quantity">Quantity</label>
+        <input type="number" class="form-control" id="quantity" asp-for="Quantity" />
+    </div>
+
+    <div class="form-group">
+        <label for="image">Image</label>
+        <input type="file" class="form-control" id="image" name="image" />
+    </div>
+    <input type="hidden" asp-for="ImageURL" />
+
+    @if (!string.IsNullOrEmpty(Model.ImageURL))
+    {
+        <div class="form-group">
+            <img src="@Model.ImageURL" alt="Product Image" style="max-width: 200px;" />
+        </div>
+    }
+
+    <button type="submit" class="btn btn-primary customBtn">Save</button>
+    <a href="@Url.Action("Index", "AllProduct")" class="btn btn-secondary">Cancel</a>
+</form>

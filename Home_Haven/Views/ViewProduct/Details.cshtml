@@ -1,0 +1,39 @@
+﻿@model Home_Haven.Models.Product
+
+<h2 class="text-center">Product Details</h2>
+
+
+<div class="container mt-4 border p-4 rounded bg-light">
+    <dl class="row">
+        <dt class="col-sm-3 font-weight-bold">Product ID</dt>
+        <dd class="col-sm-9">@Model.ProductID</dd>
+
+        <dt class="col-sm-3 font-weight-bold">Name</dt>
+        <dd class="col-sm-9">@Model.Name</dd>
+
+        <dt class="col-sm-3 font-weight-bold">Description</dt>
+        <dd class="col-sm-9">@Model.Description</dd>
+
+        <dt class="col-sm-3 font-weight-bold">Price</dt>
+        <dd class="col-sm-9">$@Model.Price</dd>
+
+        <dt class="col-sm-3 font-weight-bold">Quantity</dt>
+        <dd class="col-sm-9">@Model.Quantity</dd>
+
+        @if (!string.IsNullOrEmpty(Model.ImageURL))
+        {
+            <dt class="col-sm-3 font-weight-bold">Image</dt>
+            <dd class="col-sm-9">
+                
+                <div style="text-align: left;">
+                    <img src="@Model.ImageURL" alt="Product Image" class="img-fluid rounded shadow" style="max-width: 200px; height: auto; border-radius: 10px;" />
+                </div>
+            </dd>
+        }
+    </dl>
+
+    
+    <div class="text-center mt-4">
+        <a href="@Url.Action("Index", "AllProduct")" class="btn btn-primary customBtn">Back to List</a>
+    </div>
+</div>

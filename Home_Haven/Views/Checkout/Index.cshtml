@@ -1,0 +1,46 @@
+﻿@model Home_Haven.Models.CheckoutViewModel
+
+@{
+    ViewBag.Title = "Checkout";
+}
+
+<h2>Checkout</h2>
+
+<form asp-action="Index" method="post" class="checkout-form">
+    <div class="form-group">
+        <label>Name:</label>
+        <input asp-for="Name" readonly class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Email:</label>
+        <input asp-for="Email" readonly class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Address:</label>
+        <input asp-for="Address" readonly class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Phone Number:</label>
+        <input asp-for="PhoneNumber" readonly class="form-control" />
+    </div>
+    <h3>Payment Information:</h3>
+    <div class="form-group">
+        <label>Card Number:</label>
+        <input asp-for="CardNumber" class="form-control" />
+        <span asp-validation-for="CardNumber" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Expiry Date (MM/YY):</label>
+        <input asp-for="ExpiryDate" class="form-control" />
+        <span asp-validation-for="ExpiryDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>CVV:</label>
+        <input asp-for="CVV" class="form-control" />
+        <span asp-validation-for="CVV" class="text-danger"></span>
+    </div>
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary customBtn">Proceed to Checkout</button>
+        <a href="@Url.Action("Index", "Cart")" class="btn btn-primary customBtn">Cancel</a>
+    </div>
+</form>

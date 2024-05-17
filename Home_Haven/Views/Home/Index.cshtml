@@ -1,0 +1,97 @@
+﻿@{
+    ViewData["Title"] = "Home Haven";
+}
+
+<h1 class="text-center mt-4">Welcome to Home Haven</h1>
+
+<div class="container">
+    @if (TempData.ContainsKey("CustomMessage"))
+    {
+        <div class="alert alert-info invalidQuantitiy mt-3">
+            @TempData["CustomMessage"]
+        </div>
+    }
+    @if (TempData.ContainsKey("SuccessMessage"))
+    {
+        <div class="alert alert-info successMsg mt-3">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+    <!-- Featured Products Section -->
+    <div class="product-section">
+        <h2 class="m-6">Featured Products</h2>
+        <div class="row">
+            @foreach (var product in ViewBag.FeaturedProducts as List<Product>)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <div class="card-img-wrapper">
+                            <img class="card-img-top prdctImage" src="@product.ImageURL" alt="@product.Name" />
+                        </div>
+                        <div class="card-body text-center">
+                            <h5 class="card-title">@product.Name</h5>
+                            <p class="card-text">Price: $@product.Price</p>
+                            <form asp-action="AddToCart" method="post">
+                                <input type="hidden" name="productId" value="@product.ProductID" />
+                                <input type="number" name="quantity" class="quantity-input prdctQuantity" value="1" />
+                                <button class="btn btn-primary btn-sm w-50 mt-2 customBtn" type="submit">Add to Cart</button>                              
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    <!-- Sale Products Section -->
+    <div class="product-section">
+        <h2>Sale Products</h2>
+        <div class="row">
+            @foreach (var product in ViewBag.SaleProducts as List<Product>)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <div class="card-img-wrapper">
+                            <img class="card-img-top prdctImage" src="@product.ImageURL" alt="@product.Name" />
+                        </div>
+                        <div class="card-body text-center">
+                            <h5 class="card-title">@product.Name</h5>
+                            <p class="card-text">Price: $@product.Price</p>
+                            <form asp-action="AddToCart" method="post">
+                                <input type="hidden" name="productId" value="@product.ProductID" />
+                                <input type="number" name="quantity" class="quantity-input prdctQuantity" value="1" />
+                                <button class="btn btn-primary btn-sm w-50 mt-2 customBtn" type="submit">Add to Cart</button>                             
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    <!-- Latest Products Section -->
+    <div class="product-section">
+        <h2>Latest Products</h2>
+        <div class="row">
+            @foreach (var product in ViewBag.LatestProducts as List<Product>)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <div class="card-img-wrapper">
+                            <img class="card-img-top prdctImage" src="@product.ImageURL" alt="@product.Name" />
+                        </div>
+                        <div class="card-body text-center">
+                            <h5 class="card-title">@product.Name</h5>
+                            <p class="card-text">Price: $@product.Price</p>
+                            <form asp-action="AddToCart" method="post">
+                                <input type="hidden" name="productId" value="@product.ProductID" />
+                                <input type="number" name="quantity" class="quantity-input prdctQuantity" value="1" />
+                                <button class="btn btn-primary btn-sm w-50 mt-2 customBtn" type="submit">Add to Cart</button>                              
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Product Details Page";
+}
+
+<h1 class="text-center m-4">Product Details</h1>
+
+<div class="container prdctDetailsContainer">
+    @if (TempData.ContainsKey("CustomMessage"))
+    {
+        <div class="alert alert-info invalidQuantitiy mt-3">
+            @TempData["CustomMessage"]
+        </div>
+    }
+    @if (TempData.ContainsKey("SuccessMessage"))
+    {
+        <div class="alert alert-info successMsg mt-3">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+    <div class="row">
+       
+        <div class="col-md-6">
+            <img src="@Model.ImageURL" alt="@Model.Name" class="img-fluid prdctDetailsImg" />
+        </div>
+
+        
+        <div class="col-md-6">
+            <h2>@Model.Name</h2>
+            <p class="text-muted">@Model.Description</p>
+            <p><strong>Price:</strong> $@Model.Price</p>
+            <p><strong>Available Quantity:</strong> @Model.Quantity</p>
+
+         
+            <form asp-action="AddToCart" asp-controller="ProductDetails" method="post">
+                <input type="hidden" name="productId" value="@Model.ProductID" />
+
+                <div class="form-group">
+                    <label for="quantity">Quantity:</label>
+                    <input type="number" name="quantity" class="form-control prdctDetailsQuantity" value="1"/>
+                </div>
+
+              
+                <button class="btn btn-primary btn-sm w-50 mt-2 mb-4 customBtn" type="submit">Add to Cart</button>
+            </form>
+            <a href="@Url.Action("Index", "Product")" class="btn btn-primary btn-sm w-50 mt-6 customBtn">Back to Products Page</a>
+        </div>
+      
+    </div>
+</div>

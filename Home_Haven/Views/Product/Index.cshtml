@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Product Page";
+}
+
+<h1 class="text-center m-4">Product Page</h1>
+
+<div class="container">
+    @if (TempData.ContainsKey("CustomMessage"))
+    {
+        <div class="alert alert-info invalidQuantitiy mt-3">
+            @TempData["CustomMessage"]
+        </div>
+    }
+    @if (TempData.ContainsKey("SuccessMessage"))
+    {
+        <div class="alert alert-info successMsg mt-3">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                   
+                    <img src="@product.ImageURL" class="card-img-top prdctImage" alt="@product.Name" />
+
+                   
+                    <div class="card-body text-center">
+                        <h5 class="card-title">
+                            <a asp-action="Index" class="prdctName" asp-controller="ProductDetails" asp-route-id="@product.ProductID">
+                                @product.Name
+                            </a>
+                        </h5>
+                        <p class="card-text">Price: $@product.Price</p>
+
+                       
+                        <form asp-action="AddToCart" method="post">
+                            <input type="hidden" name="productId" value="@product.ProductID" />                         
+                            <input type="number" name="quantity" class="quantity-input prdctQuantity form-control mb-2" value="1" />
+                          
+                            <button class="btn btn-primary btn-sm w-50 mt-2 customBtn" type="submit">Add to Cart</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

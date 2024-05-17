@@ -1,0 +1,175 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+#loginForm, #signupForm {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    width: 100%;
+    height: auto;
+}
+
+.errorMsg {
+    display: block;
+    margin-top: 5px;
+}
+
+.loginBtn{
+    margin-top:2rem
+}
+
+.product-section {
+    margin-bottom: 30px;
+}
+
+/* Section heading styling */
+.product-section h2 {
+        text-align: center;
+        margin-bottom: 20px;
+}
+
+/* Style the product-item container */
+.product-item {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+    /* Style the image */
+    .product-item img {
+        width: 100px; /* Ensure the image takes up the full width */
+        height: 100px;
+        border-bottom: 1px solid #ccc;
+        margin-bottom: 10px;
+    }
+
+    /* Style the product name */
+    .product-item h4 {
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+
+    /* Style the price */
+    .product-item p {
+        font-size: 16px;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+/* Style the quantity input field */
+.quantity-input {
+    width: 60px; /* Set the width of the quantity input field */
+    margin-bottom: 5px;
+    display: block; /* Display the input block */
+    margin: 0 auto; /* Center the input field */
+}
+
+/* Style the Add to Cart button */
+.addToCart {
+    width: 100%; /* Button takes up the full width of its container */
+    margin-top: 5px; /* Add some margin on top of the button */
+    background-color: #007bff; /* Button background color */
+    color: white; /* Button text color */
+}
+
+.checkout-form {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}
+
+/* Styling for form inputs */
+.form-group {
+    margin-bottom: 15px;
+}
+
+/* Styling for the submit button */
+/*.btn {
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}*/
+
+.prdctImage {
+    object-fit: cover;
+    width: 100%;
+    height: 200px;
+}
+.prdctQuantity {
+    width: 50px;
+    text-align: center;
+}
+.prdctDetailsImg {
+    object-fit: cover !important;
+    max-width: 100% !important;
+    height: auto !important;
+}
+.prdctDetailsQuantity {
+    max-width: 60px !important;
+}
+.prdctDetailsContainer{
+    margin-top: 7rem !important;
+}
+.loginContainer{
+    margin-top:3rem;
+}
+.customBtn {
+    background-color: #003b49 !important;
+    color: #d0d3d4;
+}
+.customBtn:hover {
+        background-color: #d0d3d4 !important;
+        color: #003b49 !important;
+ }
+.custom-navbar {
+    background-color: #003b49;
+    height:5rem;
+}
+.navbar-nav .nav-item {
+    margin: 0 10px; /* Add some margin between links for better spacing */
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #d0d3d4 !important;
+    font-size: 1.3rem !important
+}
+h1, h2, .prdctName {
+    color: #003b49;
+}
+.homeTitle {
+    color: #d0d3d4 !important
+}
+.customRemove{
+    margin-top: -4px;
+    margin-left: 1rem;
+}
+.noItem, .successMsg {
+    background-color: #d0d3d4 !important;
+    color: #003b49 !important;
+}
+.invalidQuantitiy{
+    background-color:red;
+    color:white
+}

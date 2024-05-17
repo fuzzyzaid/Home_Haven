@@ -1,0 +1,41 @@
+﻿@model LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2 class="text-center mt-4">Login</h2>
+@if (TempData.ContainsKey("LoginMessage"))
+{
+    <div class="alert alert-warning">
+        @TempData["LoginMessage"]
+    </div>
+    
+    TempData.Keep("LoginMessage");
+}
+
+<div class="row justify-content-center loginContainer">
+    <div class="col-md-4">
+        <form asp-action="Index" method="post" id="loginForm">
+            <div class="form-group mb-3">
+                <label for="Email" class="mb-2">Email:</label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger errorMsg"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label for="Password" class="mb-2">Password:</label>
+                <input asp-for="Password" type="password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger errorMsg"></span>
+            </div>
+
+            <div class="text-center loginBtn">
+                <button type="submit" class="btn btn-primary customBtn">Login</button>
+            </div>
+        </form>
+        <div class="text-center mt-3">
+            <p>Don't have an account? <a asp-controller="Signup" asp-action="Index">Click here to create</a>.</p>
+        </div>
+
+    </div>
+</div>
